@@ -1,3 +1,4 @@
+pip install openai streamlit sendgrid
 
 import streamlit as st
 import openai
